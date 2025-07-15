@@ -38,5 +38,5 @@ The following parameters can be modified in the script:
 | `sigma`   | Volatility               | 0.2     |
 | `n_simulations` | Number of paths   | 100,000 |
 
-## 📊 Example Output
+
 
